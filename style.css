@@ -1,0 +1,14 @@
+.navbar bg-dark border-bottom border-body{
+    background-color: rgb(78, 75, 75);
+    height: 200px;
+}
+
+.nav0{
+    color: aliceblue;
+    height: 100px;
+}
+
+.nav2{
+    align-items: center;
+    
+}
